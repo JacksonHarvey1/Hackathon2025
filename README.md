@@ -13,7 +13,7 @@
 
 ### Quick Start:
 
-1. **Download** `schneider_prize_gui.exe` from this repository
+1. **Download** `IRIS.exe` from this repository
 2. **Save** to any location on your computer (e.g., Desktop, Documents)
 3. **Double-click** the `.exe` file to launch the application
 4. **Start analyzing** your FTIR data immediately!
