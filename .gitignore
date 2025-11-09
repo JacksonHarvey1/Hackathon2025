@@ -13,7 +13,7 @@
 # ============================================================================
 
 # Allow the executable file
-!schneider_prize_gui.exe
+!IRIS.exe
 
 # Allow essential documentation files
 !README.md
