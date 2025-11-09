@@ -1,0 +1,21 @@
+# ============================================================================
+# SECURITY STRATEGY: IGNORE EVERYTHING EXCEPT EXECUTABLE
+# ============================================================================
+# This approach keeps all source code, credentials, and data private
+# Only the compiled executable will be publicly available
+# ============================================================================
+
+# Ignore everything by default
+*
+
+# ============================================================================
+# EXCEPTIONS: Allow only the executable
+# ============================================================================
+
+# Allow the executable file
+!schneider_prize_gui.exe
+
+# Allow essential documentation files
+!README.md
+!LICENSE
+!.gitignore
